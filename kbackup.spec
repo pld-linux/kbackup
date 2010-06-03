@@ -5,7 +5,7 @@ Summary:	kbackup
 Summary(pl.UTF-8):	kbackup
 Name:		kbackup
 Version:	0.6.4
-Release:	0.1
+Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://kde-apps.org/CONTENT/content-files/44998-%{name}-%{version}.tar.bz2
